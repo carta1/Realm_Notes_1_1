@@ -23,19 +23,26 @@ App especifics
 -Addaptive button changing features depending on the users app location and input.
 
 
-![noteworthy1](https://user-images.githubusercontent.com/20260943/48033419-3b52f000-e129-11e8-9dcb-32013d48e3db.png)
+![noteworthy1_1](https://user-images.githubusercontent.com/20260943/48033741-83bedd80-e12a-11e8-93d9-f6d2c9c5193c.png)
 
-![noteworhy2](https://user-images.githubusercontent.com/20260943/48033422-3ee67700-e129-11e8-9960-a29f7e348ee0.png)
+![noteworhy2_1](https://user-images.githubusercontent.com/20260943/48033743-86b9ce00-e12a-11e8-8fc8-d8bc7dba7141.png)
 
-![noteworthy3](https://user-images.githubusercontent.com/20260943/48033428-4443c180-e129-11e8-944c-9ffc04a900bc.png)
+![noteworthy3_1](https://user-images.githubusercontent.com/20260943/48033744-891c2800-e12a-11e8-9da5-74beb630ad97.png)
 
-![noteworthy4](https://user-images.githubusercontent.com/20260943/48033436-49a10c00-e129-11e8-849f-3a9ffbdb7876.png)
+![noteworthy4_1](https://user-images.githubusercontent.com/20260943/48033746-8b7e8200-e12a-11e8-947e-2113a951a501.png)
 
-![noteworthy5](https://user-images.githubusercontent.com/20260943/48033444-4e65c000-e129-11e8-8766-f902df8219a6.png)
+![noteworthy5_1](https://user-images.githubusercontent.com/20260943/48033755-90433600-e12a-11e8-8955-f14c3838d825.png)
 
-![noteworthy6](https://user-images.githubusercontent.com/20260943/48033451-54f43780-e129-11e8-9571-c02fed5427a7.png)
+![noteworthy6_1](https://user-images.githubusercontent.com/20260943/48033757-95a08080-e12a-11e8-812a-ef94a65f9ec0.png)
 
-![noteworthylouncher](https://user-images.githubusercontent.com/20260943/48033476-61789000-e129-11e8-9940-f1b613ff1aa9.png)
+![noteworthy7_1](https://user-images.githubusercontent.com/20260943/48033761-99cc9e00-e12a-11e8-9148-e91bfceabc3c.png)
 
-![noteworthy7](https://user-images.githubusercontent.com/20260943/48033471-5f163600-e129-11e8-99e7-30d9edcfa435.png)
+![noteworthylouncher_1](https://user-images.githubusercontent.com/20260943/48033765-9f29e880-e12a-11e8-8748-1acc5ee48d94.png)
+
+
+
+
+
+
+
 
