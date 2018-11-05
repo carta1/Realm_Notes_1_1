@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/homeBG"
+        android:backgroundTint="@color/homeBG"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/myToolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="@color/homeBG"
+            android:backgroundTint="@color/homeBG"
+            app:popupTheme="@style/AppTheme.PopupOverlay"/>
+
+
+    </android.support.design.widget.AppBarLayout>
+
+    <include
+        android:id="@+id/include"
+        layout="@layout/content_main" />
+
+    <Button
+        android:id="@+id/fab"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_gravity="bottom|end"
+        android:layout_margin="8dp"
+        android:background="@drawable/ic_baseline_edit2_24px"
+        android:backgroundTint="@color/buttonTint"
+        android:onClick="sendToWriter" />
+
+    <!--<Button
+        android:id="@+id/fab2"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_gravity="bottom|start"
+        android:layout_margin="8dp"
+        android:background="@drawable/ic_baseline_error_outline_24px"
+        android:backgroundTint="@color/buttonTint"
+        android:onClick="deleteAll"
+        app:layout_constraintEnd_toEndOf="parent" />
+       -->
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_gravity="bottom"
+        android:alpha=".9"
+        android:background="@color/homeBG">
+
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/notesSize"
+        android:layout_width="75dp"
+        android:layout_height="25dp"
+        android:text="TextView"
+        android:textSize="12sp"
+        android:layout_gravity="bottom|left"
+        android:layout_margin="8dp"
+        android:textColor="@color/buttonTint"/>
+
+
+</android.support.design.widget.CoordinatorLayout>

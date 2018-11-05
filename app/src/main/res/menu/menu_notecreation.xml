@@ -1,0 +1,30 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.firstapp.realm_notes_1_1.MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_update"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/save_action"
+        android:title="@string/save_action"
+        android:visible="true"
+        app:showAsAction="ifRoom"
+        android:orderInCategory="2"/>
+
+    <item
+        android:id="@+id/back_action"
+        android:title="@string/back_button"
+        android:icon="@drawable/ic_baseline_arrow_back_24px"
+        android:backgroundTint="@color/buttonTint"
+        android:orderInCategory="1"
+        app:showAsAction="always"
+        />
+
+
+
+
+</menu>

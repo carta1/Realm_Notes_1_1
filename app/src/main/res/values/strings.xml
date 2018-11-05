@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NoteWorthy</string>
+    <string name="action_update">Update</string>
+    <string name="noteCreation_name">Create Note</string>
+    <string name="edit_button">Edit</string>
+    <string name="delete_button">Delete</string>
+    <string name="save_action">Save</string>
+    <string name="delete_all_button">DeleteAll</string>
+    <string name="write_button">Write</string>
+    <string name="back_button">Back</string>
+    <string name="main_screen">Notes</string>
+</resources>
